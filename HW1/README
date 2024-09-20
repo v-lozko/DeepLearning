@@ -1,0 +1,6 @@
+The python files were run locally on my device using pycharm having the following packages installed:
+pytorch
+numpy
+torchvision
+scikit-learn
+matplotlib
